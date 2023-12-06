@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" src="https://cdn.ayuanlmo.cn/lmo_loso_r.png">
+	<img alt="logo" src="https://cdn.ayuanlmo.cn/lmo-logo-r.png!/fw/300">
 </p>
 
 <p align="center">
